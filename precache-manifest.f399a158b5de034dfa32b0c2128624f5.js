@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/flashcards/static/js/runtime~main.4a72e263.js"
   },
   {
-    "revision": "a5b3978113d542b4c937",
+    "revision": "7670079fe7a347a458bb",
     "url": "/flashcards/static/js/main.e4f6e7cf.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/flashcards/static/js/2.6c8c230b.chunk.js"
   },
   {
-    "revision": "a5b3978113d542b4c937",
-    "url": "/flashcards/static/css/main.7dfb9b73.chunk.css"
+    "revision": "7670079fe7a347a458bb",
+    "url": "/flashcards/static/css/main.3b78ab7a.chunk.css"
   },
   {
-    "revision": "18504d7d6d331fdc2ed11de1707223d7",
+    "revision": "fad277e53e546be8512324616727d7b0",
     "url": "/flashcards/index.html"
   }
 ];
