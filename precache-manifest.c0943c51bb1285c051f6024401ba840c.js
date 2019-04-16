@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/flashcards/static/js/runtime~main.4a72e263.js"
   },
   {
-    "revision": "28cc0722bfde8d28ad97",
-    "url": "/flashcards/static/js/main.07a71ed4.chunk.js"
+    "revision": "0a99ffd74331a3c4d5ac",
+    "url": "/flashcards/static/js/main.11d569f1.chunk.js"
   },
   {
-    "revision": "4cb46573232e297ca2ba",
-    "url": "/flashcards/static/js/2.6c8c230b.chunk.js"
+    "revision": "5bcd91c609b8fe8a6893",
+    "url": "/flashcards/static/js/2.99d23b0b.chunk.js"
   },
   {
-    "revision": "28cc0722bfde8d28ad97",
+    "revision": "0a99ffd74331a3c4d5ac",
     "url": "/flashcards/static/css/main.11e1d713.chunk.css"
   },
   {
-    "revision": "f1357d6eded95c2ca435d5e466f7966e",
+    "revision": "f8b20a5f6ae705e41a01b1fb62dc00d9",
     "url": "/flashcards/index.html"
   }
 ];
